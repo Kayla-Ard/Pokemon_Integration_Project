@@ -63,7 +63,6 @@ body {
     max-width: 200px;
 }
 
-
 #skitty {
     height: auto;
     max-width: 200px;
@@ -72,4 +71,11 @@ body {
 #jigglypuff {
     height: auto;
     max-width: 200px;
+}
+
+.center-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
 }

@@ -26,19 +26,19 @@ Welcome to our PokeAPI Integration Project, built & designed by Kayla Ard & Kare
 ### Pokémon Search, Details, and Team Builder User Instructions 
 
 1. **Search for a Pokémon:**
-   - Enter a Pokémon's name or ID in the search input field.
-   - Click the **Search** button to retrieve and display the Pokémon's details.
-   - The details include the Pokémon's image, height, weight, types, abilities, and moves.
+- Enter a Pokémon's name or ID in the search input field.
+- Click the **Search** button to retrieve and display the Pokémon's details.
+- The details include the Pokémon's image, height, weight, types, abilities, and moves.
 
 2. **Add to Team:**
-   - Click the **Add Team Member** button to add the displayed Pokémon to your team.
+- Click the **Add Team Member** button to add the displayed Pokémon to your team.
 
 3. **View Team:**
-  - The team display section shows the Pokémon currently in the user's team.
-  - Each team member is displayed with their details and an option to remove them from the team.
+- The team display section shows the Pokémon currently in the user's team.
+- Each team member is displayed with their details and an option to remove them from the team.
 
 4. **Remove from Team:**
-  - Click the **Remove** button to remove a Pokémon from your team.
+- Click the **Remove** button to remove a Pokémon from your team.
 
 
 ## Technologies Used
